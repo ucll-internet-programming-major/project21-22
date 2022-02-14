@@ -4,8 +4,8 @@
 
 De opdracht en/of deelopdrachten worden ingeleverd voor deadlines die hieronder beschreven staan. Een te late submissie wordt niet verbeterd.
 
-1. Onderwerp opdracht invullen in excel. Deadline: 23:59 CEST XX Maart 2022.
-2. Demo webapp. Deadline: 23:59 CEST XX Mei/Juni? 2022.
+1. Onderwerp opdracht invullen in excel. Deadline: 23:59 CEST 9 Maart 2022.
+2. Demo webapp. Deadline: 23:59 CEST 22 Mei 2022.
 
 Time management is **jouw** verantwoordelijkheid.
 
