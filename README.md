@@ -32,6 +32,10 @@ Voorwaarden (db design):
 * De applicatie gebruikt 1 of meerdere n:m (many to many) relationships.
 * De Excel is voor de deadline ingevuld & bij de lector afgetoest
 
+### Voorbeeld onderwerpen
+
+TODO
+
 ### Inhoudelijk
 
 Afhankelijk van jullie onderwerp, zal natuurlijk de applicatie verschillend zijn van elkander. Voorzie het volgende in jullie applicatie:
