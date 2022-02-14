@@ -34,7 +34,11 @@ Voorwaarden (db design):
 
 ### Voorbeeld onderwerpen
 
-TODO
+* Webshop
+* Online ToDo takenlijst (waarbij takenlijst gedeeld kan worden door meerdere gebruikers)
+* Social media kanaal (Waarbij mensen elkaar kunnen volgen)
+* Evenementen kalender
+* ...
 
 ### Inhoudelijk
 
