@@ -52,6 +52,7 @@ Afhankelijk van jullie onderwerp, zal natuurlijk de applicatie verschillend zijn
   * Gecompileerde bestanden worden niet op GitHub gezet.
   * De README.md bevat instructies over hoe het project opgezet kan worden (dev modus - geen productie builds)
   * Wachtwoorden voor publieke services staan **NIET** in plaintext op jullie repository. Dit is een grote security breach en wordt ook zo gepenaliseerd. Gebruik hiervoor environment variabelen. Bij twijfel, contacteer de lector. _(lokale wachtwoorden mogen in je config files staan. Bijv. default postgres username & wachtwoord voor je docker image.)_
+* De applicatie is opgebouwd volgens de umbrella structuur
 * De applicatie heeft authenticatie
 * De applicatie heeft authorizatie
 * De applicatie ondersteunt i18n
