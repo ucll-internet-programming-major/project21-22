@@ -6,7 +6,7 @@ GitHub Classroom link: [https://classroom.github.com/a/VKhdrpl6](https://classro
 
 De opdracht en/of deelopdrachten worden ingeleverd voor deadlines die hieronder beschreven staan. Een te late submissie wordt niet verbeterd.
 
-1. Onderwerp opdracht invullen in [excel](https://ucll-my.sharepoint.com/:x:/g/personal/u0124976_ucll_be/EZ5NXKjRKSNCnNJnuj4-RRMBcPGWbwJ8ikeZdO-s_9Imow) & Database schema tekenen. Deadline: 23:59 CEST 9 Maart 2022.
+1. Onderwerp opdracht invullen in [excel](https://ucll-my.sharepoint.com/:x:/g/personal/u0124976_ucll_be/EZ5NXKjRKSNCnNJnuj4-RRMBcPGWbwJ8ikeZdO-s_9Imow) & Database schema tekenen. Deadline: 23:59 CET 16 Maart 2022.
 2. Demo webapp. Deadline: 23:59 CEST 22 Mei 2022.
 
 Time management is **jouw** verantwoordelijkheid.
