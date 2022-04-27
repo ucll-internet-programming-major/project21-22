@@ -65,7 +65,8 @@ Afhankelijk van jullie onderwerp, zal natuurlijk de applicatie verschillend zijn
   * links die niet werken
   * assets die niet laden
   * ... Dit is geen exhaustieve lijst, bij twijfel kan je de lector hier op voorhand over aanspreken tijdens de les.
-* Er wordt gebruik gemaakt van esbuild om bepaalde Javascript op specifieke pagina's te tonen.
+* ~~Er wordt gebruik gemaakt van esbuild om bepaalde Javascript op specifieke pagina's te tonen.~~
+* Er wordt een publieke en private API voorzien die gebruikers kunnen raadplegen. Gebruikers kunnen API keys genereren en op **een veilige manier** meesturen naar de beveiligde API.
 
 ### Demo
 
