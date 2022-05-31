@@ -70,6 +70,6 @@ Afhankelijk van jullie onderwerp, zal natuurlijk de applicatie verschillend zijn
 
 ### Demo
 
-De code wordt ingeleverd via GitHub classroom. Bij de voorstelling van het project moet de student in 10 minuten een volledige demonstratie kunnen geven. Er wordt **geen** powerpoint verwacht, enkel een demo. Deze demo wordt opgenomen.
+De code wordt ingeleverd via GitHub classroom. Bij de voorstelling van het project moet de student in ~~10~~ 20 minuten een volledige demonstratie kunnen geven. Er wordt **geen** powerpoint verwacht, enkel een demo. ~~Deze demo wordt opgenomen~~.
 
 Het project wordt van scratch gecloned van GitHub. We verwachten dat je met een git clone commando klaar staat.
